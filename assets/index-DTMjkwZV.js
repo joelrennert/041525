@@ -25,4 +25,4 @@
             )
             scale(${3+Math.sin(h*4+p*.01)*.08})    
             rotate(${p+-1}deg)
-          `,opacity:p<300?1:1-(p-300)/300})},null,8,["style"]))),128)),gu,mu])]))}},yu=Ao(_u,[["__scopeId","data-v-46ca308f"]]),vu=cu({history:$c("/taxday/"),routes:[{path:"/",name:"home",component:yu}]}),To=nc(oc);To.use(vu);To.mount("#app");
+          `,opacity:p<300?1:1-(p-300)/300})},null,8,["style"]))),128)),gu,mu])]))}},yu=Ao(_u,[["__scopeId","data-v-46ca308f"]]),vu=cu({history:$c("/041525/"),routes:[{path:"/",name:"home",component:yu}]}),To=nc(oc);To.use(vu);To.mount("#app");
